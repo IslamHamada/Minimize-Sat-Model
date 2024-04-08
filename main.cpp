@@ -43,7 +43,7 @@ int main() {
 //        }
 //        closedir(dr); //close all directory
 //    }
-//    fout.close();
+    fout.close();
 
     return 1;
 }
